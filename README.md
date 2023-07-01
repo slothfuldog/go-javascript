@@ -2,7 +2,7 @@
 
 ---
 
-**Go Javascript** is a go module that imitate javascript function in order to make javascript developer learn Golang easier
+**Go Javascript** is a go module that imitates javascript function in order to make javascript developer learn Golang easier
 
 ## Example code:
 
@@ -10,4 +10,4 @@
 `array1.pop()`
 
 **Golang:**
-`sliceM.IntPop(array1) //for Int slices`
+`sliceM.IntPop(array1) //for int slices` 
